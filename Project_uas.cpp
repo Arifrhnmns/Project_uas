@@ -70,9 +70,9 @@ void waktu() {
 	cout << "|===========================================|" << endl;
 	cout << "|         JAM PEMBERANGKATAN KERETA         |" << endl;
 	cout << "|===========================================|" << endl;
-	cout << "| 1. Pagi                      		    |" << endl;
-	cout << "| 2. Siang                     		    |" << endl;
-	cout << "| 3. Malam                     		    |" << endl;
+	cout << "| 1. Pagi                                   |" << endl;
+	cout << "| 2. Siang                                  |" << endl;
+	cout << "| 3. Malam                                  |" << endl;
 	cout << "|===========================================|" << endl;
 	cout << endl;
 }
@@ -99,7 +99,7 @@ int main() {
 	do{
 	system("color A");
 	cout << " _________________________________________________ " << endl;
-	cout << "|                  TIKET.COM		          |" << endl;
+	cout << "|                 TIKET.COM                       |" << endl;
 	cout << "|_________________________________________________|" << endl;
 	cout << "| 1. Pemesanan Tiket Bioskop                      |" << endl;
 	cout << "| 2. Pemesanan Tiket Kereta Api                   |" << endl;
@@ -993,4 +993,3 @@ int main() {
 	}while (kembali== 'Y' | kembali== 'y');
   	 cout <<"Terima Kasih Sudah Menggunakan Layanan Kami :)" << endl;	
 }
-
